@@ -5,7 +5,7 @@
 [August] [29], 2023
 
 - Question 1
-  [Submission Link]
+  [https://codeforces.com/problemset/problem/231/A]
 - Question 2
-  [Submission Link]
-- Other Tasks
+  [https://codeforces.com/problemset/problem/4/A]
+- stl (lecture 1)
