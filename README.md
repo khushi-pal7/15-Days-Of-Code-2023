@@ -1,8 +1,8 @@
-# [Name] - Vision 15 Days of Code Log
+# [Khushi pal] - Vision 15 Days of Code Log
 
 ### Day 1
 
-[Month] [Date], 2022
+[August] [29], 2023
 
 - Question 1
   [Submission Link]
