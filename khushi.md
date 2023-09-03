@@ -32,6 +32,12 @@ August 31, 2023
 - Question 1
   []
 - stl (lecture 3)
--
-  
+- 
+- - ### Day 5
+-  october 2, 2023
+
+- Question 1
+  [https://www.hackerrank.com/challenges/c-tutorial-struct/problem?isFullScreen=true]
+- stl (lecture 4)]
+
   
