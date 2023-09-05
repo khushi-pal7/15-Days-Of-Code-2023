@@ -45,6 +45,12 @@ August 31, 2023
 -  ### Day 6
 -  october 3, 2023
 
--went out with family .sorry but did work on HACKX poster task. 
+-went out with family .sorry but did work on HACKX poster task.
+
+-  ### Day 7
+-  october 4, 2023
+
+-teachers day poster task.
+ 
 
   
