@@ -27,14 +27,14 @@ August 31, 2023
 -  [https://www.hackerrank.com/challenges/c-tutorial-pointer/problem?isFullScreen=true]
 
 -    ### Day 4
--  october 1, 2023
+  september 1, 2023
 
 - Question 1
   []
 - stl (lecture 3)
 - 
 -  ### Day 5
--  october 2, 2023
+september 2, 2023
 
 - Question 1
   [https://www.hackerrank.com/challenges/c-tutorial-struct/problem?isFullScreen=true]
@@ -43,12 +43,12 @@ August 31, 2023
 - stl (lecture 4)]
   
 -  ### Day 6
--  october 3, 2023
+september 3, 2023
 
 -went out with family .sorry but did work on HACKX poster task.
 
 -  ### Day 7
--  october 4, 2023
+september 4, 2023
 
 -teachers day poster task.
  
