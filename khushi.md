@@ -51,6 +51,21 @@ september 3, 2023
 september 4, 2023
 
 -teachers day poster task.
+-  ### Day 8
+september 5, 2023
+-stack[dsa].
+
+-  ### Day 9
+september 6, 2023
+-
+
+-  ### Day 10
+september 7, 2023
+-hackx poster task.
+
+-  ### Day 11
+september 8, 2023
+-OOPS complete.
  
 
   
