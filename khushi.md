@@ -73,6 +73,25 @@ september 7, 2023
 -  ### Day 11
 september 8, 2023
 -OOPS complete.
+
+### Day 12
+
+september 9, 2023
+
+- Question 1
+  [https://codeforces.com/contest/1872/problem/A]
+
+### Day 13
+
+september 10, 2023
+
+- Question 1
+  []
+- time and space complexity
+  
+  
+
+
  
 
   
