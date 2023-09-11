@@ -31,7 +31,7 @@ August 31, 2023
   september 1, 2023
 
 - Question 1
-  []
+  [https://pastebin.com/6F8N1C3X]
 - stl (lecture 3)
 - 
   ### Day 5
