@@ -63,7 +63,7 @@ september 5, 2023
 
 -  ### Day 9
 september 6, 2023
--
+- 
 
 -  ### Day 10
   
@@ -87,7 +87,14 @@ september 10, 2023
 
 - Question 1
   [https://www.hackerrank.com/challenges/vector-sort/problem?isFullScreen=true]
-- time and space complexity
+  - Question 2[https://www.hackerrank.com/challenges/vector-erase/problem?isFullScreen=true]
+ 
+- time and space complexity.
+
+  ### Day 14
+
+  september 11, 2023
+  - stl lecture 5,6,7,8,9.
   
   
 
