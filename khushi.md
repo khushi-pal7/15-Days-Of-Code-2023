@@ -61,11 +61,11 @@ september 5, 2023
 
 - stack[dsa].
 
--  ### Day 9
+   ### Day 9
 september 6, 2023
 - 
 
--  ### Day 10
+ ### Day 10
   
 september 7, 2023
 - hackx poster task.
@@ -87,14 +87,13 @@ september 10, 2023
 
 - Question 1
   [https://www.hackerrank.com/challenges/vector-sort/problem?isFullScreen=true]
-  - Question 2[https://www.hackerrank.com/challenges/vector-erase/problem?isFullScreen=true]
+- Question 2[https://www.hackerrank.com/challenges/vector-erase/problem?isFullScreen=true]
  
 - time and space complexity.
 
   ### Day 14
-
-  september 11, 2023
-  - stl lecture 5,6,7,8,9.
+september 11, 2023
+- stl lecture 5,6,7,8,9.
   
   
 
