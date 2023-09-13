@@ -94,7 +94,11 @@ september 10, 2023
   ### Day 14
 september 11, 2023
 - stl lecture 5,6,7,8,9.
-  
+ 
+   ### Day 15
+september 12, 2023
+- stl lecture 10,11,12.
+- Question 1 [https://codeforces.com/problemset/problem/236/A]
   
 
 
