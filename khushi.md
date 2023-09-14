@@ -94,6 +94,7 @@ september 10, 2023
   ### Day 14
 september 11, 2023
 - stl lecture 5,6,7,8,9.
+- question 1  [https://pastebin.com/jxWvUESk]
  
    ### Day 15
 september 12, 2023
